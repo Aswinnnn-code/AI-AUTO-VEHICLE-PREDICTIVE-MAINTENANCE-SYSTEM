@@ -1,5 +1,5 @@
-🚗 AI Vehicle Maintenance Predictor
-Predict vehicle maintenance needs using Machine Learning & Flask
+<H1>🚗 AI Vehicle Maintenance Predictor
+Predict vehicle maintenance needs using Machine Learning & Flask</H1>
 
 This project analyzes real vehicle sensor data such as mileage, engine temperature, RPM, oil pressure, and fuel efficiency to determine whether a vehicle requires maintenance soon.
 It uses an XGBoost classifier with scaled inputs and provides results via a modern dashboard UI built with HTML, Bootstrap and Flask.
